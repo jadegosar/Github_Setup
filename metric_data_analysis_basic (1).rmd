@@ -14,6 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Hi I'm paul
 This is an old class notebook from when I was in my undergrad at Notre Dame. I believe the class was Sports Analytics and it was with a great professor.
 It is interesting to think about what happens if you merge two things that are overlapping? Does it give you an error message and not allow you to merge? Thinking for purposes of the project how does that work.
+beepooopeoehfnalskdjf[ 
 In this workbook we are going to work through some preliminary analysis that can be done using self collected metrics.
 
 
