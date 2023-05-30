@@ -11,6 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction to Metric Analysis
 
+Hi I'm paul
 This is an old class notebook from when I was in my undergrad at Notre Dame. I believe the class was Sports Analytics and it was with a great professor.
 In this workbook we are going to work through some preliminary analysis that can be done using self collected metrics.
 
